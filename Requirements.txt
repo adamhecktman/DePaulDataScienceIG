@@ -1,0 +1,6 @@
+torch==2.7.0
+pandas
+numpy
+tqdm
+transformers
+ipywidgets
